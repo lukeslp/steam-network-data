@@ -2,6 +2,8 @@
 
 Graph dataset connecting 82,000+ Steam games through shared user reviews. Two games share an edge when multiple users reviewed both.
 
+**Live visualization:** [https://dr.eamer.dev/datavis/interactive/steam-network/](https://dr.eamer.dev/datavis/interactive/steam-network/)
+
 Built from 128 million user reviews across 80,000 games (2012-2024), sourced from the [artermiloff Steam Reviews 2024](https://www.kaggle.com/datasets/artermiloff/steam-games-reviews-2024) dataset and [FronkonGames](https://huggingface.co/datasets/FronkonGames/steam-games-dataset) game metadata.
 
 ## Files
